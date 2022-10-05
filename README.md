@@ -32,10 +32,22 @@
   
   3- save the detected faces and get the total face images<br />
   
-  
-  
 ### 5. Clustering
 
 ### 6. Recognition
+  1- pass any image to know to which cluster it belongs<br />
+  > imge="/content/clustersevaluationdataset/0/19.jpg" <br />
+  2- enter the pass of the folders the contain all the clusters<br />
+  > dp="/content/clustersevaluationdataset/"<br />
+  3- it will print the name of the cluster it belongs to<br />
+  
+### 7. Verification
+  1- The verification part will certain that the image entered belongs to the choosen cluster<br />
+  2- in this pipeline it will print the first five images in the cluster or it can be changed by changing the value of range and if the cluster have less than 5 images it will plot all the images in the cluster<br \>
+ > if len(plot_images>=5):<br />
+  range = len(plot_images)<br />
+else:<br />
+  range = 5<br />
+  
   
   
