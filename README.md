@@ -26,8 +26,10 @@
 ### 4. Detection
   1- make a new directory to save the images with detected faces<br />
   >os.mkdir("/content/DetectedFaces")<br /><
+  
   2- pass all images in the dataset folder with "dp" path to the detectface function to detect the faces<br />
   >dp="/content/Dataset"<br /><
+  
   3- save the detected faces and get the total face images<br />
   
   
