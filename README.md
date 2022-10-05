@@ -13,7 +13,7 @@
   
 
 ### 1. Setup
-  Necessary packages should be installed to run the SS-GNN model. Dependecies:<br />
+  Necessary packages should be installed to run the code. Dependecies:<br />
     * DeepFace<br />
     * numpy<br />
     * pandas<br />
@@ -22,8 +22,15 @@
 ### 2. Datasets
   
 ### 3. Installation DeepFace Package
-  
+>pip install deepface  
 ### 4. Detection
+  1- make a new directory to save the images with detected faces<br />
+  >os.mkdir("/content/DetectedFaces")
+  2- pass all images in the dataset folder with "dp" path to the detectface function to detect the faces<br />
+  >dp="/content/Dataset"
+  3- save the detected faces and get the total face images<br />
+  
+  
   
 ### 5. Clustering
 
