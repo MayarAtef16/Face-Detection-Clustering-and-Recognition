@@ -19,6 +19,13 @@
     * pandas<br />
     * matlibplot<br />
     * os<br />
+    * faiss-gpu />
+    * infomap />
+    * PyTorch />
+    * pyyaml==5.4.1 />
+    * tensorboardX />
+    * mxnet />
+    * sklearn />
 ### 2. Datasets
   
 ### 3. Installation DeepFace Package
@@ -33,7 +40,10 @@
   3- save the detected faces and get the total face images<br />
   
 ### 5. Clustering
-
+ git clone https://github.com/XiaohangZhan/face_recognition_framework.git <br />
+ git clone https://github.com/yl-1993/learn-to-cluster.git <br />
+ git clone https://github.com/bd-if/FaceMap.git <br />
+ 
 ### 6. Recognition
   1- pass any image to know to which cluster it belongs<br />
   > imge="/content/clustersevaluationdataset/0/19.jpg" <br />
