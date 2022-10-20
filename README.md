@@ -19,13 +19,13 @@
     * pandas<br />
     * matlibplot<br />
     * os<br />
-    * faiss-gpu />
-    * infomap />
-    * PyTorch />
-    * pyyaml==5.4.1 />
-    * tensorboardX />
-    * mxnet />
-    * sklearn />
+    * faiss-gpu <br />
+    * infomap <br />
+    * PyTorch <br />
+    * pyyaml==5.4.1 <br />
+    * tensorboardX <br />
+    * mxnet <br />
+    * sklearn <br />
 ### 2. Datasets
   
 ### 3. Installation DeepFace Package
