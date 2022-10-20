@@ -42,10 +42,13 @@
 ### 5. Clustering
   1- used for image enhancment and upsampling <br />
  >git clone https://github.com/TencentARC/GFPGAN.git <br />
+  
   2- used for feature extraction <br />
  >git clone https://github.com/XiaohangZhan/face_recognition_framework.git <br />
+  
   3- used for KNN formulation <br />
  >git clone https://github.com/yl-1993/learn-to-cluster.git <br />
+  
   4- used for Clustering <br />
  >git clone https://github.com/bd-if/FaceMap.git <br />
   
