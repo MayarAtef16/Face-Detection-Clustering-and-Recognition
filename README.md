@@ -40,13 +40,13 @@
   3- save the detected faces and get the total face images<br />
   
 ### 5. Clustering
- git clone https://github.com/TencentARC/GFPGAN.git <br />
+ >git clone https://github.com/TencentARC/GFPGAN.git <br />
   **used for image enhancment and upsampling <br />
- git clone https://github.com/XiaohangZhan/face_recognition_framework.git <br />
+ >git clone https://github.com/XiaohangZhan/face_recognition_framework.git <br />
   **used for feature extraction <br />
- git clone https://github.com/yl-1993/learn-to-cluster.git <br />
+ >git clone https://github.com/yl-1993/learn-to-cluster.git <br />
   **used for KNN formulation <br />
- git clone https://github.com/bd-if/FaceMap.git <br />
+ >git clone https://github.com/bd-if/FaceMap.git <br />
   **used for Clustering <br />
  
 ### 6. Recognition
